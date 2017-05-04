@@ -1,4 +1,4 @@
-This project was made as a school project and is not espascilly good but i am improving on it
+This project was made as a school project and is not especially good but i am improving on it
 it is a basic fps game.
 
 uses alot of charachtercontroller and mouse movment currently had a bug with unity that is why
